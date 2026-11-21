@@ -1,7 +1,7 @@
 # Willy Alves Silva
 
 **Tecnólogo em Redes | Suporte Técnico N1 / NOC**
-Guarulhos, SP
+| Guarulhos, SP
 
 ## Sobre mim
 
