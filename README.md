@@ -25,8 +25,8 @@ Tecnólogo em Redes de Computadores (Senac SP, 2026), em transição para a áre
 ## Projetos
 
 - [Infraestrutura de Homelab com Docker, Zabbix, Pi-hole e VPN WireGuard](https://github.com/Willy-Alves/homelab-infra-docker)
-<!-- Descomente cada linha quando o repositório estiver publicado
 - [Rede segmentada com VLAN, OSPF, ACL e NAT](https://github.com/Willy-Alves/lab-vlan-ospf-nat-packet-tracer)
+<!-- Descomente cada linha quando o repositório estiver publicado
 - [Monitoramento com Zabbix e Graylog em Docker](https://github.com/Willy-Alves/lab-monitoramento-zabbix-graylog-docker)
 - [Proxy Squid no Debian](https://github.com/Willy-Alves/lab-proxy-squid-debian)
 - [Diagnóstico de falhas com Wireshark](https://github.com/Willy-Alves/lab-troubleshooting-wireshark)
